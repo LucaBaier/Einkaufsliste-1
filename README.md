@@ -8,7 +8,7 @@
     + **Stadt:** Berlin
     + **Adresse:** Musterstrasse 11
 ### Bild
-![Dackelblick](https://www.welt.de/img/wissenschaft/mobile195431695/1022506097-ci102l-w1024/A-portrait-of-a-beagle-that-was-a-rescued-dog-2.jpg "Dackelblick")
+![Dackelblick](dackel.jpg "Dackelblick")
 
 + ***Bildung***
 
